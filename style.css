@@ -26,11 +26,15 @@ body {
     grid-row-gap: 15px;
 }
 .grid-item {
-    /*border: 1px solid black;*/
+    border: 1px solid black;
     padding: 5px;
 }
 .card p {
     padding: 10px 20px;
+}
+.price {
+    font-weight: bold;
+    font-size: larger;
 }
 .tel a {
     font-size: smaller;
@@ -105,4 +109,20 @@ body {
 }
 .footer-menu ul {
     padding-left: 100px;
+    text-decoration: underline;
+}
+.footer p {
+    font-size: smaller;
+}
+.logo-footer {
+    padding: 20px 10px;
+}
+.slogan {
+    margin: 0;
+    float: right;
+    width: 200px;
+    display: inline-block;
+}
+.text {
+    grid-area: 7 / 3 / 8 / 6;
 }
