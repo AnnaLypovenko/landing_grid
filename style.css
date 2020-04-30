@@ -23,10 +23,18 @@ body {
     display: grid;
     grid-template-columns: 205px 175px 1fr 1fr 1fr 205px;
     grid-template-rows: 230px 80px 462px 40px 1fr 1fr 1fr 220px;
+    grid-row-gap: 15px;
 }
 .grid-item {
     /*border: 1px solid black;*/
     padding: 5px;
+}
+.card p {
+    padding: 10px 20px;
+}
+.tel a {
+    font-size: smaller;
+    padding-left: 96px;
 }
 .logo {
     width: 110px;
@@ -51,7 +59,7 @@ body {
 }
 .slider {
     grid-area: 3 / 1 / 4 / 7;
-    background-color: lightcyan;
+    background-image: url("./images/1@1X.png");
 }
 .micro-menu {
     grid-area: 4 / 2 / 5 / 4;
@@ -94,4 +102,7 @@ body {
 .footer {
     background-color: steelblue;
     color: white;
+}
+.footer-menu ul {
+    padding-left: 100px;
 }

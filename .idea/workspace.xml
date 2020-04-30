@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ddf0901-aa34-47e2-8bfc-7817a9f13eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/1@1X.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MS - EXCEL@1X.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DanIt2020/REACT/buratask" beforeDir="false" afterPath="$PROJECT_DIR$/../../DanIt2020/REACT/buratask" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DanIt2020/fem5" beforeDir="false" afterPath="$PROJECT_DIR$/../../DanIt2020/fem5" afterDir="false" />
@@ -37,6 +39,8 @@
   <component name="ProjectId" id="1bDYARwgq6plFLedxkChlbHicvu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
@@ -67,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588167988001</updated>
-      <workItem from="1588167989401" duration="13309000" />
+      <workItem from="1588167989401" duration="15283000" />
     </task>
     <servers />
   </component>
